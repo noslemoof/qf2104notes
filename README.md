@@ -1,2 +1,4 @@
 # qf2104notes
-ez
+ez notes
+
+No need to run jupyter
